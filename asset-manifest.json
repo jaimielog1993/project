@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/avery/static/js/main.8de50e65.js",
+    "static/js/453.b16768da.chunk.js": "/avery/static/js/453.b16768da.chunk.js",
+    "static/media/Discount.jpg": "/avery/static/media/Discount.87095a304e4e39ad1d35.jpg",
+    "static/media/Passion.jpg": "/avery/static/media/Passion.9bfbf114fb3381b4048c.jpg",
+    "static/media/ClothesImage.jpg": "/avery/static/media/ClothesImage.0891288de7d2256ca490.jpg",
+    "static/media/Weekly_2.jpg": "/avery/static/media/Weekly_2.e108ff3c8fbdb185439b.jpg",
+    "static/media/Weekly_1.jpg": "/avery/static/media/Weekly_1.c3145e06ea0c95a8e8a1.jpg",
+    "static/media/Clearance.jpg": "/avery/static/media/Clearance.76ab0d03ad0c9e7bfb0b.jpg",
+    "static/media/Weekly_4.jpg": "/avery/static/media/Weekly_4.b481ec724d24bea91061.jpg",
+    "static/media/Weekly_5.jpg": "/avery/static/media/Weekly_5.d069e4784b34c77c68fc.jpg",
+    "static/media/Weekly_6.jpg": "/avery/static/media/Weekly_6.9367b26b7aaeb6bb58e0.jpg",
+    "static/media/Weekly_3.jpg": "/avery/static/media/Weekly_3.12b792f090064438da34.jpg",
+    "static/media/SpecialCoupon.jpg": "/avery/static/media/SpecialCoupon.be257446314c51e8e15a.jpg",
+    "index.html": "/avery/index.html",
+    "main.8de50e65.js.map": "/avery/static/js/main.8de50e65.js.map",
+    "453.b16768da.chunk.js.map": "/avery/static/js/453.b16768da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8de50e65.js"
+  ]
+}
